@@ -1,0 +1,15 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
