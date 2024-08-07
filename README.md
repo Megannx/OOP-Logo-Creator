@@ -17,5 +17,5 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Video Displaying Application Use.
+"C:\Users\mnwhi\Videos\Recording 2024-08-07 123316.mp4"
 
-"C:\Users\mnwhi\Downloads\Screen Recording 2024-08-07 122939.mov"
