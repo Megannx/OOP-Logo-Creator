@@ -17,5 +17,5 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Video Displaying Application Use.
-"C:\Users\mnwhi\Videos\Recording 2024-08-07 123316.mp4"
+https://app.screencastify.com/driveProxy?fileId=1fqH9AGTtzXv8BndI1nHm3q-vzp0VO2E6&alt=media&source=downloadUrl&cache_buster=0}&access_token=ya29.a0AcM612wry1nw65Qia8OyzololBWzRucRf50spzBUtSS4ty0Ks7n1Jjm98W7g38u4sjexZSpA7uDsJuxq5gMRVsSKWfPkASnPTwE7rJYPfgx6-g5Qj1tcoVXG3unCN7eLARsz0EOmgFsvN6b7PB9tX6J_bKApGJ4y4CotaCgYKARUSARASFQHGX2MijgEuK7_4p9TwzmVeeA2CtQ0171
 
