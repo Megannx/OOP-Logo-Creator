@@ -17,5 +17,5 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Video Displaying Application Use.
-![image](https://github.com/user-attachments/assets/b7e0e6bb-ae9e-4847-9989-624e1b45d233)
+https://github.com/user-attachments/assets/a100e807-8cba-4104-9b68-0e22daf76dff
 
